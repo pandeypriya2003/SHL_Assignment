@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+speechrecognition
+language-tool-python
+nltk
